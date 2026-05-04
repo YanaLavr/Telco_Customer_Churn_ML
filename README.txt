@@ -108,7 +108,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/USERNAME/telco-churn-analysis.git
+git clone https://github.com/YanaLavr/Telco_Customer_Churn_ML.git
 cd telco-churn-analysis
 
 # Установить зависимости
